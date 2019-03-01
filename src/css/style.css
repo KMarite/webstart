@@ -30,6 +30,7 @@ img {
   }
 }
 
+<<<<<<< HEAD
 @media (max-width: 567px) {
   .container {
     max-width: 320px;
@@ -37,6 +38,8 @@ img {
   }
 }
 
+=======
+>>>>>>> 36b4c0b58257643044eec389d552e280dd6c1bb2
 .btn {
   border-radius: 10px;
   background-color: #ffd200;
@@ -84,8 +87,11 @@ img {
 }
 
 .navbar__button {
+<<<<<<< HEAD
   font-size: 13px;
   font-weight: bold;
+=======
+>>>>>>> 36b4c0b58257643044eec389d552e280dd6c1bb2
   text-decoration: none;
   color: #333333;
   margin-left: 30px;
